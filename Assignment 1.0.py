@@ -54,7 +54,7 @@ print("x%y:",x%y)
 print("x**y:",x**y)
 print("x//y:",x//y)
 
-#Fourth Set (x=100, y=40)
+#Fourth Set (x=0.2, y=4)
 x = 0.2
 y = 4
 print("x:",x)
